@@ -5,6 +5,9 @@
 **Netlify Deployment:**
 https://deploy-preview-1--referraldashboard2.netlify.app
 
+**Updated Gitlink**
+https://github.com/Ammulu321/referralDashboard
+
 A secure, responsive, and intuitive referral management system built for Go Business to help users track referrals, earnings, and partner activity through a structured dashboard.
 
 This application is built in strict compliance with the project assessment guidelines and the provided React and Web Development syllabus.
